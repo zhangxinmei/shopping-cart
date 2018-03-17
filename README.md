@@ -5,7 +5,7 @@
 ## 示例运行
 ``` bash
 # 克隆到本地
-git clone https://github.com/zhangxinmei/webpack.git
+https://github.com/zhangxinmei/shopping-cart.git
 
 # 进入文件夹
 cd shopping-cart
